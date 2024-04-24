@@ -1,2 +1,2 @@
-export const DB_NAME="YOUTUBE"
+export const DB_NAME="FAIZAN"
 export const MAX_LIMIT="16KB"
